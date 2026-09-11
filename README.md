@@ -1,16 +1,13 @@
-## Hi there 👋
+# <a href="https://www.linkedin.com/in/eraybay/">Eray Bay</a>'s IT and Cybersecurity Project Portfolio
 
-<!--
-**yareyab/yareyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Vulnerability Management Projects
 
-Here are some ideas to get you started:
+## Threat Hunting and Security Operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+## Connect With Me
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/eraybay
