@@ -2,6 +2,9 @@
 
 ## Vulnerability Management Projects
 
+- **[Security Technical Implementation Guide (STIG) Remediations](https://github.com/yareyab/stig-remediations)**
+
+
 ## Threat Hunting and Security Operations
 
 <hr/>
