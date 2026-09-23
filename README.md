@@ -7,6 +7,8 @@
 
 ## Threat Hunting and Security Operations
 
+- **[Threat Hunting](https://github.com/yareyab/threat-hunts)**
+
 <hr/>
 
 ## Connect With Me
